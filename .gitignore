@@ -1,5 +1,8 @@
 # gitignore
 
+# https://en.wikipedia.org/wiki/.DS_Store
+.DS_Store
+
 # 이클래스 등록용 파일 제외 처리
 # 학번.circ, 스크린샷
 1*
